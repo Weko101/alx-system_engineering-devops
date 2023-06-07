@@ -1,0 +1,2 @@
+#!/bin/bash
+mkdir -m new /tmp/my_first_directory
